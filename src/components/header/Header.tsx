@@ -4,7 +4,7 @@ import {Nav} from '../nav/Nav';
 export const Header = () => {
   return (
       <div className={style.header}>
-          Header
+          <h2 className={style.logo}>Header</h2>
           <Nav/>
       </div>
   )

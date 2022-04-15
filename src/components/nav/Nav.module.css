@@ -2,4 +2,9 @@
     width: 300px;
     display: flex;
     justify-content: space-evenly;
+    border: 1px solid;
+}
+
+.link {
+    font-size: 1.5em;
 }
