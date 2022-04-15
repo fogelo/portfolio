@@ -1,9 +1,8 @@
 .worksBlock {
     background-color: #f0d1ff;
     min-height: 50vh;
-    /*display: flex;*/
-    /*justify-content: center;*/
-    /*align-items: center;*/
+    display: flex;
+    align-items: center;
 }
 
 .worksContainer {
