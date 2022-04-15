@@ -3,3 +3,12 @@
     border: 1px solid;
     margin: 0 auto;
 }
+
+.btn {
+    width: 100px;
+    height: 30px;
+}
+
+.btn:hover {
+    background-color: #9a9a9a;
+}
