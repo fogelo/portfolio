@@ -1,11 +1,22 @@
-.skills {
-    height: 500px;
+.skillsBlock {
     background-color: aquamarine;
+    min-height: 50vh;
     display: flex;
+    align-items: center;
 }
 
-.icon {
-    width: 250px;
-    height: 300px;
-    background-color: #faa5a5;
+.skillsContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.skills {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.title {
+    text-align: center;
+    background-color: cornsilk;
 }
