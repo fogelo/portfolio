@@ -12,11 +12,18 @@
 
 .skills {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
 }
 
 .title {
     text-align: center;
     background-color: cornsilk;
+}
+
+@media (max-width: 700px) {
+    .skills {
+        display: block;
+        margin: 0 auto;
+    }
 }

@@ -1,0 +1,30 @@
+.work {
+    border: 1px solid;
+    max-width: 350px;
+    margin-bottom: 10px;
+}
+
+.img {
+   max-width: 350px;
+    height: 200px;
+    background-color: #9a9a9a;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+}
+
+
+.title {
+    background-color: #a2f6f6;
+}
+
+.description {
+    background-color: khaki;
+
+}
